@@ -1,4 +1,5 @@
 # Cytosolic 3D Spot Detection
+[![DOI](https://zenodo.org/badge/908954760.svg)](https://doi.org/10.5281/zenodo.14562112)
 
 This macro detect spots in an image stack in 2 channels and report the number of spots, their overlap and normalize it by the cytosolic volume calculated as the volume left by the nuclear staining (eg DAPI).
 
